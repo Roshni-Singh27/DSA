@@ -1,4 +1,3 @@
-package DSA;
 
 public class reversenodesinkgrp {
     public ListNode reverseKGroup(ListNode head, int k) {

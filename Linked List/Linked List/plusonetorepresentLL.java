@@ -1,4 +1,4 @@
-package DSA;
+
 class ListNode {
       int val;
       ListNode next;
